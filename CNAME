@@ -1,5 +1,1 @@
-# Only CNAME record for www:
-Type: CNAME  
-Name: www
-Value: 3higherstudies.github.io
-TTL: 3600
+acleanz.com
